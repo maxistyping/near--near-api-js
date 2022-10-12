@@ -264,7 +264,7 @@ export class Account {
                 });
             } else return acc;
         }, []);
-        this.printLogsAndFailures(signedTx.transaction.receiverId, flatLogs);
+        this.printLogsAndFailures((signedTx as SignedTransaction)?.transaction?.receiverId, flatLogs);
 
         // Should be falsy if result.status.Failure is null
         if (!returnError && typeof result.status === 'object' && typeof result.status.Failure === 'object'  && result.status.Failure !== null) {
