@@ -46,7 +46,7 @@ Contributions are very welcome. If you think you need help planning your contrib
 
 ### Join our Discord Channel
 
-We have the [`#community-feedback`](https://discord.gg/XKGrd9h9TB) channel on [Discord](https://near.chat) to discuss all things about NEAR development. You can also be of great help by helping other users in the [`#dev-support`](https://discord.gg/Fy4WzwRgun) channel.
+We have the [`#dev-feedback`](https://discord.gg/3sKQxFRW) channel on [Discord](https://near.chat) to discuss all things about NEAR development. You can also be of great help by helping other users in the [`#dev-support`](https://discord.gg/Fy4WzwRgun) channel.
 
 ### Triaging Issues and Pull Requests
 
